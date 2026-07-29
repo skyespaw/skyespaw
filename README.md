@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-<a href= "https://github.com/muzzledpup"> marshall</a> 　　　 <a href= "https://github.com/HOUNDISHXX"> chase</a> 　　　 <a href= "https://github.com/pwppy"> skye</a>
+<a href= "https://github.com/marshallspaw"> marshall</a> 　　　 <a href= "https://github.com/chasespaw"> chase</a> 　　　 <a href= "https://github.com/pwppy"> skye</a>
 </p>
