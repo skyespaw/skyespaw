@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://files.catbox.moe/mtmh9w.gif" width="500" alt="this pups gotta fly!">
+<img src="https://files.catbox.moe/mtmh9w.gif" width="500" alt="made by skye">
 </p>
 
 <p align="center">
