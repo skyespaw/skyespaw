@@ -4,8 +4,8 @@
 
 <p align="center">
 <a href= "https://github.com/marshallspaw"> marshall</a> 　　　 <a href= "https://github.com/chasespaw"> chase</a> 　　　 <a href= "https://github.com/pwppy"> skye</a>
-</p>
+</p> <br>
 
 <p align="center">
-<img width="500" alt="made by skye. ac goes to mercywashere" src="https://github.com/user-attachments/assets/ff3ccb49-d54a-4013-baa6-d0bdf8ff0d0f" />
+<img width="450" alt="made by skye. ac goes to mercywashere" src="https://github.com/user-attachments/assets/ff3ccb49-d54a-4013-baa6-d0bdf8ff0d0f" />
 </p>
